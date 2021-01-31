@@ -9,3 +9,4 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 * Leila Peterson - [leilapeterson-whitman](https://github.com/leilapeterson-whitman)
+* Dylan Wu - [dylanjwu](https://github.com/dylanjwu)
