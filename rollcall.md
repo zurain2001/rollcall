@@ -9,6 +9,7 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 
+* Corbin Atack - [ccatack](https://github.com/ccatack)
 * Errol Bucy - [KauBoui](https://github.com/KauBoui)
 * Laska Fitzhugh - [laskafitzhugh-whitman](https://github.com/laskafitzhugh-whitman)
 * Ryan Kierulf - [RyanKierulf](https://github.com/RyanKierulf)
