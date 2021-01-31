@@ -9,5 +9,6 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 * Leila Peterson - [leilapeterson-whitman](https://github.com/leilapeterson-whitman)
+* Shubhra Tewari - [shubhrate](https://github.com/shubhrate)
 * Dylan Wu - [dylanjwu](https://github.com/dylanjwu)
 * Haley Yandt - [yandthj](https://github.com/yandthj)
