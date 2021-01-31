@@ -9,6 +9,7 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 
+* Errol Bucy - [KauBoui](https://github.com/KauBoui)
 * Ryan Kierulf - [RyanKierulf](https://github.com/RyanKierulf)
 * Leila Peterson - [leilapeterson-whitman](https://github.com/leilapeterson-whitman)
 * Shubhra Tewari - [shubhrate](https://github.com/shubhrate)
