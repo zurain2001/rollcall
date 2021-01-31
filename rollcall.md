@@ -15,6 +15,7 @@ Name and GitHub username/profile
 * Ryan Kierulf - [RyanKierulf](https://github.com/RyanKierulf)
 * Leila Peterson - [leilapeterson-whitman](https://github.com/leilapeterson-whitman)
 * Shubhra Tewari - [shubhrate](https://github.com/shubhrate)
+* Marco Thompson - [marcojthompson](https://github.com/marcojthompson)
 * Vreni Todd - [toddve247](http://github.com/toddve247)
 * Dylan Wu - [dylanjwu](https://github.com/dylanjwu)
 * Haley Yandt - [yandthj](https://github.com/yandthj)
