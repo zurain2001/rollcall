@@ -19,3 +19,4 @@ Name and GitHub username/profile
 * Vreni Todd - [toddve247](http://github.com/toddve247)
 * Dylan Wu - [dylanjwu](https://github.com/dylanjwu)
 * Haley Yandt - [yandthj](https://github.com/yandthj)
+* Jeremy Davis - [DavisJeremy](https://github.com/DavisJeremy)
