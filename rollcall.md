@@ -11,7 +11,9 @@ Name and GitHub username/profile
 
 * Corbin Atack - [ccatack](https://github.com/ccatack)
 * Errol Bucy - [KauBoui](https://github.com/KauBoui)
+* Jeremy Davis - [DavisJeremy](https://github.com/DavisJeremy)
 * Laska Fitzhugh - [laskafitzhugh-whitman](https://github.com/laskafitzhugh-whitman)
+* Stephanie Fulton - [snfulton](https://github.com/snfulton)
 * Ryan Kierulf - [RyanKierulf](https://github.com/RyanKierulf)
 * Eric Lim - [lime2699](https://github.com/lime2699)
 * Nick McClellan - [NickRMcCellan](https://github.com/NickRMcCellan)
@@ -21,4 +23,3 @@ Name and GitHub username/profile
 * Vreni Todd - [toddve247](http://github.com/toddve247)
 * Dylan Wu - [dylanjwu](https://github.com/dylanjwu)
 * Haley Yandt - [yandthj](https://github.com/yandthj)
-* Stephanie Fulton - [snfulton](https://github.com/snfulton)
