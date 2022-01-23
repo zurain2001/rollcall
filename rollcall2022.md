@@ -8,3 +8,4 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
+* Max Harvey - [harveymk](https://github.com/harveymk)
