@@ -11,6 +11,7 @@ Name and GitHub username/profile
 
 * Kalilou Ali - [kaliloua7](https://github.com/kaliloua7)
 * Ethan Berman - [ethan-berman](https://github.com/ethan-berman)
+* David Bernado - [dabernado](https://github.com/dabernado)
 * Kimokeo Bowden - [kimokeobowden](https://https://github.com/kimokeobowden)
 * Ankit Bhattarai-[bhattaaa](https://github.com/bhattaaa)
 * Nadr Elhelu - [NadrElhelu](https://github.com/NadrElhelu)
