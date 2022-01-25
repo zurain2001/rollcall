@@ -9,14 +9,16 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 
+* Kalilou Ali - [kaliloua7](https://github.com/kaliloua7)
 * Ethan Berman - [ethan-berman](https://github.com/ethan-berman)
+* David Bernado - [dabernado](https://github.com/dabernado)
 * Kimokeo Bowden - [kimokeobowden](https://https://github.com/kimokeobowden)
 * Ankit Bhattarai-[bhattaaa](https://github.com/bhattaaa)
 * Nadr Elhelu - [NadrElhelu](https://github.com/NadrElhelu)
+* Ben Grabau - [BenGrabau1](https://github.com/BenGrabau1)
 * Max Harvey - [harveymk](https://github.com/harveymk)
 * Noah Kaplan - [kaplannp](https://github.com/kaplannp)
 * Linrui Luo - [laolarou726](https://github.com/laolarou726)
 * Flora Taagen -[florataagen](https://gitub.com/florataagen)
 * Christopher Snook - [snookcb](https://github.com/snookcb)
 * Tina Wang - [pudding2718](https://github.com/pudding2718)
-* Ben Grabau - [BenGrabau1](https://github.com/BenGrabau1)
