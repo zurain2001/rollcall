@@ -14,3 +14,4 @@ Name and GitHub username/profile
 * Max Harvey - [harveymk](https://github.com/harveymk)
 * Noah Kaplan - [kaplannp](https://github.com/kaplannp)
 * Linrui Luo - [laolarou726](https://github.com/laolarou726)
+* Flora Taagen -[florataagen](https://gitub.com/florataagen)
