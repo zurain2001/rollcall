@@ -15,3 +15,4 @@ Name and GitHub username/profile
 * Noah Kaplan - [kaplannp](https://github.com/kaplannp)
 * Linrui Luo - [laolarou726](https://github.com/laolarou726)
 * Flora Taagen -[florataagen](https://gitub.com/florataagen)
+* Christopher Snook - [snookcb](https://github.com/snookcb)
