@@ -18,3 +18,4 @@ Name and GitHub username/profile
 * Linrui Luo - [laolarou726](https://github.com/laolarou726)
 * Flora Taagen -[florataagen](https://gitub.com/florataagen)
 * Christopher Snook - [snookcb](https://github.com/snookcb)
+* Kalilou Ali - [kaliloua7](https://github.com/kaliloua7)
