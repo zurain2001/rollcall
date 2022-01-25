@@ -9,6 +9,7 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 
+* Kalilou Ali - [kaliloua7](https://github.com/kaliloua7)
 * Ethan Berman - [ethan-berman](https://github.com/ethan-berman)
 * Kimokeo Bowden - [kimokeobowden](https://https://github.com/kimokeobowden)
 * Ankit Bhattarai-[bhattaaa](https://github.com/bhattaaa)
@@ -18,4 +19,4 @@ Name and GitHub username/profile
 * Linrui Luo - [laolarou726](https://github.com/laolarou726)
 * Flora Taagen -[florataagen](https://gitub.com/florataagen)
 * Christopher Snook - [snookcb](https://github.com/snookcb)
-* Kalilou Ali - [kaliloua7](https://github.com/kaliloua7)
+* Tina Wang - [pudding2718](https://github.com/pudding2718)
