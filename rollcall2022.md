@@ -19,3 +19,4 @@ Name and GitHub username/profile
 * Flora Taagen -[florataagen](https://gitub.com/florataagen)
 * Christopher Snook - [snookcb](https://github.com/snookcb)
 * Tina Wang - [pudding2718](https://github.com/pudding2718)
+* David Bernado - [dabernado](https://github.com/dabernado)
