@@ -20,6 +20,7 @@ Name and GitHub username/profile
 * Max Harvey - [harveymk](https://github.com/harveymk)
 * Noah Kaplan - [kaplannp](https://github.com/kaplannp)
 * Linrui Luo - [laolarou726](https://github.com/laolarou726)
+* Jeff Mutethia - [mutethjt](https://github.com/mutethjt)
 * Flora Taagen -[florataagen](https://gitub.com/florataagen)
 * Christopher Snook - [snookcb](https://github.com/snookcb)
 * Jake Torrey - [jakedtorrey](https://github.com/jakedtorrey)
