@@ -21,5 +21,7 @@ Name and GitHub username/profile
 * Linrui Luo - [laolarou726](https://github.com/laolarou726)
 * Flora Taagen -[florataagen](https://gitub.com/florataagen)
 * Christopher Snook - [snookcb](https://github.com/snookcb)
-* Tina Wang - [pudding2718](https://github.com/pudding2718)
+* Jake Torrey - [jakedtorrey](https://github.com/jakedtorrey)
 * Daniela Villagomez -[daniela-villagomez](https://github.com/dani-villagomez)
+* Tina Wang - [pudding2718](https://github.com/pudding2718)
+* Claire Weissman - [cweissman001](https://github.com/cweissman001)
