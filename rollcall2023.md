@@ -8,3 +8,5 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
+* Andrew Kuhlken - [kuhlkena](https://github.com/kuhlkena)
+
