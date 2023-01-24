@@ -19,3 +19,4 @@ Name and GitHub username/profile
 * Dustin Lennon-Jones - [dustinplj](https://github.com/dustinplj)
 * Silivan Munguarakarama - [silivanmunguar](https://github.com/silivanmunguar)
 * Eli Shafer - [shafere](https://github.com/shafere)
+* Luca Viarengo - [Striker1046] (https://github.com/Striker1046)
