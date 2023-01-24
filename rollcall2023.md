@@ -11,6 +11,7 @@ Name and GitHub username/profile
 * Ahmed Elsayed [elsayeaa294](https://github.com/elsayeaa294)
 * LJ Friedman - [friedmam](https://github.com/friedmam)
 * Gabe Kelly - [Gabe-Kelly01](https://github.com/Gabe-Kelly01)
+* Nick Hager - [hagerna](https://github.com/hagerna)
 * Gurun Anthony - [Gur33](https://github.com/Gur33) 
 * Andrew Kuhlken - [kuhlkena](https://github.com/kuhlkena)
 * Silivan Munguarakarama - [silivanmunguar](https://github.com/silivanmunguar)
