@@ -21,3 +21,4 @@ Name and GitHub username/profile
 * Eli Shafer - [shafere](https://github.com/shafere)
 * Luca Viarengo - [Striker1046](https://github.com/Striker1046)
 * Lucky Khoza - [LuckyKhoza-crypto](https://github.com/LuckyKhoza-crypto)
+* Jai Deshpande - [jaideshpande](https://github.com/jaideshpande)
