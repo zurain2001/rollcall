@@ -7,6 +7,7 @@ _Note this repository is public._
 
 Name and GitHub username/profile
 --------------------------------
+* Mateus Conaway - [teusc](https://github.com/teusc)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 * Ahmed Elsayed [elsayeaa294](https://github.com/elsayeaa294)
 * LJ Friedman - [friedmam](https://github.com/friedmam)
