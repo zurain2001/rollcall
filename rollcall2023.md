@@ -14,3 +14,4 @@ Name and GitHub username/profile
 * Gurun Anthony - [Gur33](https://github.com/Gur33) 
 * Andrew Kuhlken - [kuhlkena](https://github.com/kuhlkena)
 * Silivan Munguarakarama - [silivanmunguar](https://github.com/silivanmunguar)
+* Diego Quispe - [ddgq](https://github.com/ddgq)
