@@ -23,3 +23,5 @@ Name and GitHub username/profile
 * Lucky Khoza - [LuckyKhoza-crypto](https://github.com/LuckyKhoza-crypto)
 * Jai Deshpande - [jaideshpande](https://github.com/jaideshpande)
 * Katie Duncan - [katieduncan3](https://github.com/katieduncan3)
+* Fatima Kowdan - [FatimaKowdan](https://github.com/FatimaKowdan)
+
