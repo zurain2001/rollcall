@@ -8,6 +8,8 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
+
+* Diego Quispe - [ddgq](https://github.com/ddgq)
 * Ahmed Elsayed [elsayeaa294](https://github.com/elsayeaa294)
 * LJ Friedman - [friedmam](https://github.com/friedmam)
 * Caden Hoyt - [hoytcaden](https://github.com/hoytcaden)
