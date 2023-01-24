@@ -7,6 +7,7 @@ _Note this repository is public._
 
 Name and GitHub username/profile
 --------------------------------
+* Mateus Conaway - [teusc](https://github.com/teusc)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 * Diego Quispe - [ddgq](https://github.com/ddgq)
 * Dustin Lennon-Jones - [dustinplj](https://github.com/dustinplj)
