@@ -22,3 +22,4 @@ Name and GitHub username/profile
 * Luca Viarengo - [Striker1046](https://github.com/Striker1046)
 * Lucky Khoza - [LuckyKhoza-crypto](https://github.com/LuckyKhoza-crypto)
 * Jai Deshpande - [jaideshpande](https://github.com/jaideshpande)
+* Katie Duncan - [katieduncan3](https://github.com/katieduncan3)
