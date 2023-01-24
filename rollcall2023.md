@@ -25,4 +25,4 @@ Name and GitHub username/profile
 * Jai Deshpande - [jaideshpande](https://github.com/jaideshpande)
 * Katie Duncan - [katieduncan3](https://github.com/katieduncan3)
 * Fatima Kowdan - [FatimaKowdan](https://github.com/FatimaKowdan)
-
+* Riley Chappell  -[rileychappell998](https://github.com/rileychappell998)
