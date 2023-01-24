@@ -18,5 +18,6 @@ Name and GitHub username/profile
 * Andrew Kuhlken - [kuhlkena](https://github.com/kuhlkena)
 * Dustin Lennon-Jones - [dustinplj](https://github.com/dustinplj)
 * Silivan Munguarakarama - [silivanmunguar](https://github.com/silivanmunguar)
+* Connor Scott - [scottcj](https://github.com/scottcj)
 * Eli Shafer - [shafere](https://github.com/shafere)
 * Luca Viarengo - [Striker1046] (https://github.com/Striker1046)
