@@ -29,3 +29,4 @@ Name and GitHub username/profile
 * Luca Viarengo - [Striker1046](https://github.com/Striker1046)
 * Mateus Conaway - [teusc](https://github.com/teusc)
 * Yorng Chhieng - [yorngchhieng1](https://github.com/yorngchhieng1)
+* Jasper Kim - [Axelerater](https://github.com/Axelerater)
