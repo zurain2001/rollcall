@@ -30,3 +30,4 @@ Name and GitHub username/profile
 * Mateus Conaway - [teusc](https://github.com/teusc)
 * Yorng Chhieng - [yorngchhieng1](https://github.com/yorngchhieng1)
 * Jasper Kim - [Axelerater](https://github.com/Axelerater)
+* Shintaro Kamura - Shintaro2114(https://github.com/Shintaro2114)
