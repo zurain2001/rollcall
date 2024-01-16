@@ -14,6 +14,7 @@ Name and GitHub username/profile
 * Grant Didway  - [didwayg](https://github.com/didwayg)
 * Jas Liu - [jasxlliu](https://github.com/jasxlliu)
 * Fabian Gabriel - [gabrielf598](https://github.com/gabrielf598)
+* Terence Mahlatini - [TMahlatini] 
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
 * Coden Stark - [coden-s](https://github.com/coden-s)
