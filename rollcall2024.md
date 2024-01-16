@@ -11,6 +11,7 @@ Name and GitHub username/profile
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
 * Grant Didway  - [didwayg](https://github.com/didwayg)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
+* Coden Stark - [coden-s](https://github.com/coden-s)
 * Neel Troeger - [ywxn](https://github.com/ywxn)
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
