@@ -9,9 +9,9 @@ Name and GitHub username/profile
 --------------------------------
 * Jack Allard - [jackallard17](https://github.com/jackallard17/)
 * Jacob Burrill - [Jacob-Burrill](https://github.com/Jacob-Burrill)
+* Fabian Gabriel - [gabrielf598](https://github.com/gabrielf598)
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
-* Grant Didway  - [didwayg](https://github.com/didwayg)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
-* Neel Troeger - [ywxn](https://github.com/ywxn)
-* Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
+* Grant Didway  - [didwayg](https://github.com/didwayg)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
+* Neel Troeger - [ywxn](https://github.com/ywxn)
