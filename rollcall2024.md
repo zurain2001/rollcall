@@ -27,3 +27,4 @@ Name and GitHub username/profile
 * Neel Troeger - [ywxn](https://github.com/ywxn)
 * Aidan Von Buchwaldt - [AidanVB](https://github.com/AidanVB)
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
+* Luke Samuels - [samuelsl02](https://github.com/samuelsl02)
