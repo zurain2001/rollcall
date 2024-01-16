@@ -21,6 +21,7 @@ Name and GitHub username/profile
 * Molly Halverson = [halversm][https://github.com/halversm]
 * Terence Mahlatini - [TMahlatini] 
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
+* Rhys Sorenson-Graff - [Rhys-sg](https://github.com/Rhys-sg)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
 * Coden Stark - [coden-s](https://github.com/coden-s)
 * Andrew Tate - [tater-tot25](https://github.com/tater-tot25)
