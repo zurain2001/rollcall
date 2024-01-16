@@ -24,3 +24,4 @@ Name and GitHub username/profile
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
 * Andrew Tate - [tater-tot25](https://github.com/tater-tot25)
 * Neel Troeger - [ywxn](https://github.com/ywxn)
+* Aidan Von Buchwaldt - [AidanVB](https://github.com/AidanVB)
