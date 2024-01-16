@@ -19,3 +19,4 @@ Name and GitHub username/profile
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
 * Neel Troeger - [ywxn](https://github.com/ywxn)
+* Samuel Boerner - [boerners-whit](https://github.com/boerners-whit)
