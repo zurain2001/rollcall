@@ -14,3 +14,4 @@ Name and GitHub username/profile
 * Neel Troeger - [ywxn](https://github.com/ywxn)
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
+* Zurain Zeeshan - [zurain2001](https://github.com/zurain2001)
