@@ -8,6 +8,7 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Jack Allard - [jackallard17](https://github.com/jackallard17/)
+* Fabian Gabriel - [gabrielf598](https://github.com/gabrielf598)
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
 * Grant Didway  - [didwayg](https://github.com/didwayg)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
