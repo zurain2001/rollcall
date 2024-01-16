@@ -15,6 +15,7 @@ Name and GitHub username/profile
 * Marlyn Estrada - [estradam19](https://github.com/estradam19)
 * Jas Liu - [jasxlliu](https://github.com/jasxlliu)
 * Fabian Gabriel - [gabrielf598](https://github.com/gabrielf598)
+* Molly Halverson = [halversm][https://github.com/halversm]
 * Terence Mahlatini - [TMahlatini] 
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
 * Uli Raudales - [UlizesR](https://github.com/UlizesR)
