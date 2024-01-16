@@ -19,4 +19,6 @@ Name and GitHub username/profile
 * Coden Stark - [coden-s](https://github.com/coden-s)
 * Neel Troeger - [ywxn](https://github.com/ywxn)
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
+* Uli Raudales - [UlizesR](https://github.com/UlizesR)
+* Andrew Tate - [tater-tot25](https://github.com/tater-tot25)
 * Neel Troeger - [ywxn](https://github.com/ywxn)
