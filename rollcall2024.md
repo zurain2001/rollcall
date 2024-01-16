@@ -12,6 +12,7 @@ Name and GitHub username/profile
 * Jacob Burrill - [Jacob-Burrill](https://github.com/Jacob-Burrill)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 * Grant Didway  - [didwayg](https://github.com/didwayg)
+* Marlyn Estrada - [estradam19](https://github.com/estradam19)
 * Jas Liu - [jasxlliu](https://github.com/jasxlliu)
 * Fabian Gabriel - [gabrielf598](https://github.com/gabrielf598)
 * Terence Mahlatini - [TMahlatini] 
