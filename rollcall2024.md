@@ -8,6 +8,7 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Jack Allard - [jackallard17](https://github.com/jackallard17/)
+* Clara Bates - [clarabates](https://github.com/clarabates)
 * Gabriel Paris-Moe - [gabepm100](https://github.com/gabepm100)
 * Grant Didway  - [didwayg](https://github.com/didwayg)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
