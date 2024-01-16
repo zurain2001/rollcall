@@ -8,6 +8,7 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Jack Allard - [jackallard17](https://github.com/jackallard17/)
+* Oliver Baltzer - [ObaltzerS](https://github.com/ObaltzerS)
 * Jacob Burrill - [Jacob-Burrill](https://github.com/Jacob-Burrill)
 * Grant Didway  - [didwayg](https://github.com/didwayg)
 * Fabian Gabriel - [gabrielf598](https://github.com/gabrielf598)
