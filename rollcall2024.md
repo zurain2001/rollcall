@@ -9,3 +9,4 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
+* Grant Didway  - [didwayg](https://github.com/didwayg)
