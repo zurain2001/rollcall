@@ -29,3 +29,4 @@ Name and GitHub username/profile
 * Aidan Von Buchwaldt - [AidanVB](https://github.com/AidanVB)
 * Jordan Wirfs-Brock - [jwirfs-brock](https://github.com/jwirfs-brock)
 * Luke Samuels - [samuelsl02](https://github.com/samuelsl02)
+* Zurain Zeeshan - [zurain2001](https://github.com/zurain2001)
